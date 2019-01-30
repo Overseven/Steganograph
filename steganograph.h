@@ -1,12 +1,12 @@
 #ifndef STEGANOGRAPH_H
 #define STEGANOGRAPH_H
 
-//#include <media.h>
+#include <media.h>
 #include <QWidget>
 #include <QByteArray>
 #include <QBitArray>
 #include <opencv2/highgui/highgui.hpp>
-//#include <opencv/cv.h>
+#include <opencv/cv.h>
 #include <opencv2/opencv.hpp>
 
 namespace Ui {
